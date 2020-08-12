@@ -1,4 +1,4 @@
-// +build dsaa
+// +build foo,bar
 
 package goland_flags_test
 
